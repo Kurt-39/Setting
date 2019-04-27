@@ -99,8 +99,8 @@ node.ingest: true
 bootstrap.memory_lock: false
 node.max_local_storage_nodes: 2
 
-path.data: E:\software\elasticsearch-6.2.1\data
-path.logs: E:\software\elasticsearch-6.2.1\logs
+path.data: E:\software\elasticsearch-6.2.1\data(所在文件)
+path.logs: E:\software\elasticsearch-6.2.1\logs(所在文件)
 
 http.cors.enabled: true
 http.cors.allow-origin: /.*/
